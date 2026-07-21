@@ -71,6 +71,7 @@ const navItems: NavItem[] = [
       { name: "Search Input", path: "/components/forms/search", pro: false, new: true },
       { name: "Date Picker", path: "/components/forms/date-picker", pro: false, new: true },
       { name: "Form Field", path: "/components/forms/formfield", pro: false, new: true },
+      { name: "Form Builder", path: "/components/forms/form-builder", pro: false, new: true },
     ],
   },
   {
