@@ -92,6 +92,7 @@ const navItems: NavItem[] = [
     subItems: [
       { name: "Modal", path: "/components/overlay/modal", pro: false, new: true },
       { name: "Advanced Modal", path: "/components/overlay/advanced-modal", pro: false, new: true },
+      { name: "Toast", path: "/components/overlay/toast", pro: false, new: true },
     ],
   },
   {
