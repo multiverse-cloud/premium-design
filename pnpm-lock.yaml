@@ -14,6 +14,9 @@ importers:
       '@fontsource/plus-jakarta-sans':
         specifier: ^5.3.0
         version: 5.3.0
+      fuse.js:
+        specifier: ^7.5.0
+        version: 7.1.0
       '@fullcalendar/core':
         specifier: ^6.1.19
         version: 6.1.21
@@ -788,6 +791,9 @@ packages:
 
   '@floating-ui/utils@0.2.12':
     resolution: {integrity: sha512-HpCo8tmWzLVad5s2d19EhAz5zqrrQ6s69qd6moPMQvkOuSwDT1YgRfWSVuc4ennqrgv3OHppiOGMQ7oC13yIww==}
+
+  fuse.js@7.1.0:
+    resolution: {integrity: sha512-Fum2oFX9+2NxNJ6nLn/SPt0RLtJMPU8cCrNq88EoC55EtH6N9xXmRHZgRSyF9qRy6q6PP9WGJfl+WaLK3xHPOSA==}
 
   '@fontsource-variable/outfit@5.3.0':
     resolution: {integrity: sha512-fPb5XnYK0k7SbR++HEmm4+ZqDszmLKQ+sPRUr8oQ/KNC0vy6r6hazJFe8iYozv4cqlHbvJ/JECkJWrfDodUMVQ==}
@@ -4375,6 +4381,7 @@ snapshots:
       react-dom: 19.2.7(react@19.2.7)
 
   '@floating-ui/utils@0.2.12': {}
+  fuse.js@7.1.0: {}
 
   '@fontsource-variable/outfit@5.3.0': {}
 
