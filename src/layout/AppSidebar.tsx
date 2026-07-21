@@ -69,7 +69,7 @@ const navItems: NavItem[] = [
       { name: "Slider", path: "/components/forms/slider", pro: false, new: true },
       { name: "Password Input", path: "/components/forms/password", pro: false, new: true },
       { name: "Search Input", path: "/components/forms/search", pro: false, new: true },
-      { name: "Date Picker", path: "/components/forms/datepicker", pro: false, new: true },
+      { name: "Date Picker", path: "/components/forms/date-picker", pro: false, new: true },
       { name: "Form Field", path: "/components/forms/formfield", pro: false, new: true },
     ],
   },
