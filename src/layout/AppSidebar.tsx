@@ -115,6 +115,7 @@ const othersItems: NavItem[] = [
     icon: <PieChartIcon />,
     name: "Charts",
     subItems: [
+      { name: "Advanced Charts", path: "/components/charts/advanced", pro: false, new: true },
       { name: "Line Chart", path: "/line-chart", pro: false },
       { name: "Bar Chart", path: "/bar-chart", pro: false },
     ],
