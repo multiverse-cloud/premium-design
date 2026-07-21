@@ -19,3 +19,15 @@ export type { SelectProps, SelectItemProps } from "./select/Select";
 
 export { Slider } from "./slider/Slider";
 export type { SliderProps } from "./slider/Slider";
+
+export { PasswordInput } from "./password-input/PasswordInput";
+export type { PasswordInputProps } from "./password-input/PasswordInput";
+
+export { SearchInput } from "./search-input/SearchInput";
+export type { SearchInputProps } from "./search-input/SearchInput";
+
+export { DatePicker } from "./date-picker/DatePicker";
+export type { DatePickerProps } from "./date-picker/DatePicker";
+
+export { FormField } from "./form-field/FormField";
+export type { FormFieldProps } from "./form-field/FormField";
