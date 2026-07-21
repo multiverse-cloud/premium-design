@@ -45,4 +45,3 @@ const Navbar = forwardRef<HTMLElement, NavbarProps>(
 Navbar.displayName = "Navbar";
 
 export { Navbar };
-export type { NavbarProps };

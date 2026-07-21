@@ -1,7 +1,7 @@
 "use client";
 
+import * as React from "react";
 import * as RadioPrimitive from "@radix-ui/react-radio-group";
-import { forwardRef, type InputHTMLAttributes } from "react";
 import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/cn";
 
@@ -31,23 +31,28 @@ const indicatorVariants = cva("flex items-center justify-center", {
   },
 });
 
-export interface RadioProps
-  extends Omit<InputHTMLAttributes<HTMLButtonElement>, "type">,
-    VariantProps<typeof radioVariants> {
+export interface RadioProps {
+  className?: string;
+  variant?: "default" | "error" | "success";
   label?: string;
   description?: string;
   error?: boolean;
+  value?: string;
+  name?: string;
+  checked?: boolean;
+  defaultChecked?: boolean;
+  disabled?: boolean;
+  id?: string;
+  onChange?: () => void;
 }
 
-const Radio = forwardRef<HTMLButtonElement, RadioProps>(
-  ({ className, variant, label, description, error, id, ...props }, ref) => {
+const Radio = ({ className, variant, label, description, error, id, ...props }: RadioProps) => {
     const radioId = id || `radio-${Math.random().toString(36).substr(2, 9)}`;
     const variantToUse = error ? "error" : variant;
 
     return (
       <div className="flex items-start gap-3">
         <RadioPrimitive.Root
-          ref={ref}
           id={radioId}
           className={cn(radioVariants({ variant: variantToUse, className }))}
           {...props}
@@ -73,37 +78,38 @@ const Radio = forwardRef<HTMLButtonElement, RadioProps>(
         )}
       </div>
     );
-  }
-);
+  };
 
 Radio.displayName = "Radio";
 
-export interface RadioGroupProps extends RadioPrimitive.RadioGroupProps {
+export interface RadioGroupProps {
+  className?: string;
   label?: string;
   error?: string;
+  value?: string;
+  defaultValue?: string;
+  onValueChange?: (value: string) => void;
+  children: React.ReactNode;
 }
 
-const RadioGroup = forwardRef<HTMLDivElement, RadioGroupProps>(
-  ({ className, label, error, children, ...props }, ref) => {
-    return (
-      <div ref={ref} className="space-y-3">
-        {label && (
-          <label className="text-sm font-medium text-gray-900 dark:text-white">
-            {label}
-          </label>
-        )}
-        <RadioPrimitive.Root className={cn("flex flex-col gap-2", className)} {...props}>
-          {children}
-        </RadioPrimitive.Root>
-        {error && (
-          <p className="text-xs text-error-500">{error}</p>
-        )}
-      </div>
-    );
-  }
-);
+const RadioGroup = ({ className, label, error, children, ...props }: RadioGroupProps) => {
+  return (
+    <div className="space-y-3">
+      {label && (
+        <label className="text-sm font-medium text-gray-900 dark:text-white">
+          {label}
+        </label>
+      )}
+      <RadioPrimitive.Root className={cn("flex flex-col gap-2", className)} {...props}>
+        {children}
+      </RadioPrimitive.Root>
+      {error && (
+        <p className="text-xs text-error-500">{error}</p>
+      )}
+    </div>
+  );
+};
 
 RadioGroup.displayName = "RadioGroup";
 
 export { Radio, RadioGroup, radioVariants };
-export type { RadioProps, RadioGroupProps };

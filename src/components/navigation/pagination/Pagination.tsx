@@ -1,7 +1,7 @@
 "use client";
 
-import { forwardRef, type ReactNode } from "react";
-import { ChevronLeftIcon, ChevronRightIcon } from "@/icons";
+import { forwardRef } from "react";
+import { ChevronLeftIcon } from "@/icons";
 import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/cn";
 
@@ -127,7 +127,7 @@ const Pagination = forwardRef<HTMLDivElement, PaginationProps>(
             className={cn(pageButtonVariants({ variant: currentPage === totalPages ? "outline" : "default" }))}
             aria-label="Next page"
           >
-            <ChevronRightIcon className="h-4 w-4" />
+            <ChevronLeftIcon className="h-4 w-4 rotate-180" />
           </button>
         )}
 
@@ -149,4 +149,3 @@ const Pagination = forwardRef<HTMLDivElement, PaginationProps>(
 Pagination.displayName = "Pagination";
 
 export { Pagination };
-export type { PaginationProps };

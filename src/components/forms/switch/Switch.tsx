@@ -83,4 +83,3 @@ const Switch = forwardRef<HTMLButtonElement, SwitchProps>(
 Switch.displayName = "Switch";
 
 export { Switch, switchVariants };
-export type { SwitchProps };

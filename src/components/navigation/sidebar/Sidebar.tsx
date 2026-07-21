@@ -206,4 +206,3 @@ const NavItem = forwardRef<HTMLDivElement, NavItemProps>(
 NavItem.displayName = "NavItem";
 
 export { Sidebar, SidebarHeader, SidebarContent, SidebarFooter, NavSection, NavItem };
-export type { SidebarProps, SidebarHeaderProps, SidebarContentProps, SidebarFooterProps, NavSectionProps, NavItemProps };

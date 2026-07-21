@@ -87,4 +87,3 @@ const Slider = forwardRef<HTMLSpanElement, SliderProps>(
 Slider.displayName = "Slider";
 
 export { Slider };
-export type { SliderProps };

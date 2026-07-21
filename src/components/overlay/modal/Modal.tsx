@@ -178,4 +178,3 @@ const ModalBody = forwardRef<HTMLDivElement, ModalBodyProps>(
 ModalBody.displayName = "ModalBody";
 
 export { Modal, ModalTrigger, ModalContent, ModalHeader, ModalBody, ModalFooter };
-export type { ModalProps, ModalTriggerProps, ModalContentProps, ModalHeaderProps, ModalBodyProps, ModalFooterProps };

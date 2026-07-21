@@ -2,7 +2,7 @@
 
 import * as SelectPrimitive from "@radix-ui/react-select";
 import { forwardRef, type ReactNode } from "react";
-import { ChevronDownIcon, CheckIcon } from "@/icons";
+import { ChevronDownIcon, CheckCircleIcon } from "@/icons";
 import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/cn";
 
@@ -110,7 +110,7 @@ const SelectItem = forwardRef<HTMLDivElement, SelectItemProps>(
       >
         <span className="absolute left-3 flex h-3.5 w-3.5 items-center justify-center">
           <SelectPrimitive.ItemIndicator>
-            <CheckIcon className="h-4 w-4 text-brand-500" />
+            <CheckCircleIcon className="h-4 w-4 text-brand-500" />
           </SelectPrimitive.ItemIndicator>
         </span>
         <SelectPrimitive.ItemText>{children}</SelectPrimitive.ItemText>
@@ -122,4 +122,3 @@ const SelectItem = forwardRef<HTMLDivElement, SelectItemProps>(
 SelectItem.displayName = "SelectItem";
 
 export { Select, SelectItem };
-export type { SelectProps, SelectItemProps };

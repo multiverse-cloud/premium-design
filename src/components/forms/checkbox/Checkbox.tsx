@@ -2,7 +2,7 @@
 
 import * as CheckboxPrimitive from "@radix-ui/react-checkbox";
 import { forwardRef, type InputHTMLAttributes } from "react";
-import { CheckIcon } from "@/icons";
+import { CheckCircleIcon } from "@/icons";
 import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/cn";
 
@@ -44,7 +44,7 @@ const Checkbox = forwardRef<HTMLButtonElement, CheckboxProps>(
           {...props}
         >
           <CheckboxPrimitive.Indicator className="flex items-center justify-center text-current">
-            <CheckIcon className="h-3.5 w-3.5" />
+            <CheckCircleIcon className="h-3.5 w-3.5" />
           </CheckboxPrimitive.Indicator>
         </CheckboxPrimitive.Root>
         {(label || description) && (
@@ -70,4 +70,3 @@ const Checkbox = forwardRef<HTMLButtonElement, CheckboxProps>(
 Checkbox.displayName = "Checkbox";
 
 export { Checkbox, checkboxVariants };
-export type { CheckboxProps };
