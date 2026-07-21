@@ -37,7 +37,7 @@ export interface RadioProps {
   label?: string;
   description?: string;
   error?: boolean;
-  value?: string;
+  value: string;
   name?: string;
   checked?: boolean;
   defaultChecked?: boolean;
@@ -46,21 +46,22 @@ export interface RadioProps {
   onChange?: () => void;
 }
 
-const Radio = ({ className, variant, label, description, error, id, ...props }: RadioProps) => {
+const Radio = ({ className, variant, label, description, error, id, value, ...props }: RadioProps) => {
     const radioId = id || `radio-${Math.random().toString(36).substr(2, 9)}`;
     const variantToUse = error ? "error" : variant;
 
     return (
       <div className="flex items-start gap-3">
-        <RadioPrimitive.Root
+        <RadioPrimitive.Item
           id={radioId}
+          value={value}
           className={cn(radioVariants({ variant: variantToUse, className }))}
           {...props}
         >
           <RadioPrimitive.Indicator className={cn("flex items-center justify-center", variantToUse === "default" && "text-brand-500", variantToUse === "error" && "text-error-500", variantToUse === "success" && "text-success-500")}>
             <div className="h-2 w-2 rounded-full bg-current" />
           </RadioPrimitive.Indicator>
-        </RadioPrimitive.Root>
+        </RadioPrimitive.Item>
         {(label || description) && (
           <div className="flex flex-col">
             {label && (
