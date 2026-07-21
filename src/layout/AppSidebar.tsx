@@ -91,6 +91,7 @@ const navItems: NavItem[] = [
     icon: <GridIcon />,
     subItems: [
       { name: "Modal", path: "/components/overlay/modal", pro: false, new: true },
+      { name: "Advanced Modal", path: "/components/overlay/advanced-modal", pro: false, new: true },
     ],
   },
   {
