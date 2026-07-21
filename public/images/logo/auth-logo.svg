@@ -1,0 +1,19 @@
+<svg width="200" height="52" viewBox="0 0 200 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vg" x1="6" y1="4" x2="46" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6ee7b7"/>
+      <stop offset="0.55" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="vgloss" x1="12" y1="8" x2="26" y2="28" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="6" width="40" height="40" rx="13" fill="url(#vg)"/>
+  <rect x="4" y="6" width="40" height="40" rx="13" fill="url(#vgloss)"/>
+  <rect x="4.5" y="6.5" width="39" height="39" rx="12.5" stroke="#ffffff" stroke-opacity="0.35"/>
+  <path d="M15 18.5C15 18.5 20.2 34 24 34C27.8 34 33 18.5 33 18.5C33 18.5 29.5 29 24 29C18.5 29 15 18.5 15 18.5Z" fill="#022c22" fill-opacity="0.9"/>
+  <path d="M24 34C24 34 24 24 32.5 17.5C26.5 19 24 26 24 34Z" fill="#022c22" fill-opacity="0.8"/>
+  <text x="58" y="33" font-family="'Plus Jakarta Sans','Outfit',sans-serif" font-size="25" font-weight="800" letter-spacing="-0.5" fill="#ffffff">Verdant</text>
+</svg>

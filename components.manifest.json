@@ -1,0 +1,3142 @@
+{
+  "components": [
+    {
+      "name": "Button",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/button/Button.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "IconButton",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/iconbutton/IconButton.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ButtonGroup",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ToggleButton",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SplitButton",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LoadingButton",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CopyButton",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FloatingActionButton",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Badge",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/badge/Badge.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Tag",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/tag/Tag.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Chip",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Pill",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "StatusDot",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/statusdot/StatusDot.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Avatar",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/avatar/Avatar.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AvatarGroup",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/avatargroup/AvatarGroup.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AvatarWithStatus",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Divider",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/divider/Divider.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "VerticalDivider",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Spinner",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/spinner/Spinner.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Skeleton",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/skeleton/Skeleton.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SkeletonText",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SkeletonCard",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SkeletonAvatar",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SkeletonTable",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProgressBar",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/progressbar/ProgressBar.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProgressCircle",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/progresscircle/ProgressCircle.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProgressSteps",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Kbd",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/kbd/Kbd.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Tooltip",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/tooltip/Tooltip.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Popover",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Label",
+      "category": "forms",
+      "status": "done",
+      "path": "src/components/forms/label/Label.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Heading",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/heading/Heading.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Text",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/text/Text.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Link",
+      "category": "ui",
+      "status": "done",
+      "path": "src/components/ui/link/Link.tsx",
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Icon",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Logo",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ThemeToggle",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LanguageSwitcher",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Rating",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CountdownTimer",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AnimatedCounter",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ColorSwatch",
+      "category": "ui",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Input",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "InputWithIcon",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PasswordInput",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SearchInput",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Textarea",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AutoResizeTextarea",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NumberInput",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CurrencyInput",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PhoneInput",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PinInput",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Select",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MultiSelect",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ComboBox",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TagsInput",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Checkbox",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CheckboxGroup",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Radio",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RadioGroup",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Switch",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Slider",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RangeSlider",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DatePicker",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DateRangePicker",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TimePicker",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DateTimePicker",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ColorPicker",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FileUpload",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ImageDropzone",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AvatarUpload",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RichTextEditor",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MarkdownEditor",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CodeEditor",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FormField",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FormGroup",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FormSection",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FormWizard",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FormActions",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FieldError",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "HelperText",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CharacterCounter",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PasswordStrengthMeter",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RatingInput",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SignaturePad",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LocationPicker",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AddressAutocomplete",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "JSONEditor",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SearchWithFilters",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CommandPalette",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CaptchaWidget",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ConsentCheckbox",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TermsAcceptance",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NewsletterSignupForm",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ContactForm",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LoginForm",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RegisterForm",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ForgotPasswordForm",
+      "category": "forms",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Table",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DataTable",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DataGrid",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "VirtualizedTable",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TableToolbar",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TablePagination",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ExpandableTableRow",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TreeTable",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "List",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DescriptionList",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Card",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "StatCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MetricCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "KPICard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ComparisonCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PricingCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProfileCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProductCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TestimonialCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BlogCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProjectCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TeamMemberCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "InvoiceCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NotificationCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Timeline",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ActivityFeed",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CommentThread",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ReviewList",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FAQAccordion",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Accordion",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CollapsiblePanel",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Tabs",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "VerticalTabs",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SegmentedControl",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Carousel",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ImageGallery",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Lightbox",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CodeBlock",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TerminalOutput",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "JSONViewer",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DiffViewer",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Breadcrumb",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "EmptyState",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ErrorState",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NotFoundState",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MaintenanceState",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ComingSoonState",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LoadingState",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "OfflineBanner",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DescriptionCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "QuoteCard",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "StepList",
+      "category": "data-display",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Sidebar",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CollapsibleSidebar",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Navbar",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MegaMenu",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DropdownMenu",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ContextMenu",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Pagination",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NavStepper",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BottomNavigation",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MobileTabBar",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PageHeader",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PageContainer",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SectionContainer",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SplitPane",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ResizablePanels",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Drawer",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BackToTop",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ScrollSpy",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "StickyHeader",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Footer",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FooterMinimal",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FooterMega",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AnnouncementBar",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "UserMenu",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NotificationBell",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "GlobalSearchBar",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "QuickActionsMenu",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SidebarPromoWidget",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Grid",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Container",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Stack",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ResponsiveGrid",
+      "category": "navigation",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Modal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ConfirmDialog",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AlertDialog",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Toast",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ToastContainer",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Snackbar",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Alert",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "InlineAlert",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Popconfirm",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ImagePreviewModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "VideoModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LoadingOverlay",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "GlobalLoader",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProgressToast",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NotificationCenter",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "OnboardingTour",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FeatureHighlight",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CookieConsentBanner",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FeedbackWidget",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BugReportWidget",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "WhatsNewModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ShortcutsHelpModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ShareModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ExportModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ImportModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DeleteConfirmModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SessionTimeoutModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "UpgradePlanModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PaywallModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RatingPromptModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SurveyModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ExitIntentModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "WaitlistModal",
+      "category": "overlay",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LineChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AreaChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BarChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "HorizontalBarChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "StackedBarChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PieChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DonutChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RadialBarChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RadarChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ScatterChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BubbleChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Heatmap",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Sparkline",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "GaugeChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FunnelChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TreemapChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CandlestickChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "Histogram",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ComboChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "WorldMapChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RegionMap",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NetworkGraph",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "OrgChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "GanttChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CalendarHeatmap",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ChartLegend",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ChartTooltip",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MiniStatChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TrendIndicator",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "KPITrendCard",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RealTimeChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ComparisonChart",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ChartExportButton",
+      "category": "charts",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "OrderDetailsPanel",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "OrderTimeline",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProductGrid",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProductListItem",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProductQuickView",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CartDrawer",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CartItem",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CheckoutSteps",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CheckoutSummary",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CouponInput",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ShippingAddressForm",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PaymentMethodSelector",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "InvoiceTable",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "InvoiceGenerator",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RefundRequestForm",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CustomerProfileCard",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SalesFunnelChart",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RevenueBreakdownCard",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "InventoryTable",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "StockLevelIndicator",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SupplierCard",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "WarehouseMap",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ShippingTracker",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ReturnStatusBadge",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "WishlistButton",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CompareProductsTable",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DiscountBanner",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FlashSaleTimer",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AbandonedCartReminder",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SubscriptionPlanCard",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "UsageMeter",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BillingHistoryTable",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TaxSummaryCard",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PayoutScheduleCard",
+      "category": "dashboard",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "UserAvatarStack",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProfileHeader",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ProfileTabs",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FollowersList",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ActivityLog",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BadgeAwardCard",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LeaderboardTable",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TeamMemberList",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "InviteMemberForm",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RolePermissionsTable",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PermissionMatrix",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TwoFactorSetup",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SessionsList",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ConnectedAppsList",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "APIKeyManager",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NotificationPreferences",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PrivacySettingsPanel",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AccountDeletionFlow",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SocialShareButtons",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SocialLoginButtons",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MentionInput",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "EmojiPicker",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "UserSettingsLayout",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "OrganizationSwitcher",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "WorkspaceCard",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AuditLogTable",
+      "category": "social",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MiniCalendar",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "EventCard",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "EventDetailsModal",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SchedulerView",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AvailabilityPicker",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BookingForm",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ReminderList",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ChatWindow",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ChatMessageBubble",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ChatInput",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TypingIndicator",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "VideoCallCard",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MeetingCard",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TaskCard",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "KanbanBoard",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "KanbanColumn",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TodoList",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ReminderBanner",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "InboxList",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ThreadedMessageView",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CallToActionReminder",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AgendaList",
+      "category": "scheduling",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "HeroSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "HeroWithImage",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "HeroVideo",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FeatureGrid",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FeatureList",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FeatureComparisonTable",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PricingTable",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PricingToggle",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TestimonialCarousel",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TestimonialGrid",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LogoCloud",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "StatsSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CTASection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "NewsletterSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FAQSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "TeamSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BlogGrid",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BlogPostHeader",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AuthorBio",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "RelatedPosts",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ContactSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "MapSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FooterCTA",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ComparisonSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "IntegrationsGrid",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ChangelogList",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CaseStudyCard",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PartnersGrid",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "DownloadAppSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SecurityBadgesSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AwardsSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "VideoTestimonial",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BeforeAfterSlider",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "StickyPricingBar",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "WaitlistForm",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ReferralProgramCard",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "AffiliateDashboardCard",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SitemapFooter",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BrandStorySection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "CareersSection",
+      "category": "marketing",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ErrorBoundaryFallback",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "SuspenseFallback",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PermissionGate",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FeatureFlagGate",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "LazyImage",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ResponsiveImage",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "IconPicker",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "EmptyIllustration",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ErrorIllustration",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "PrintButton",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "ShareButton",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "FullscreenToggle",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "KeyboardShortcutsList",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "VersionBadge",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "BuildInfoFooter",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "A11yAnnouncer",
+      "category": "system",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "useDebounce",
+      "category": "hooks",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "useClipboard",
+      "category": "hooks",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "useMediaQuery",
+      "category": "hooks",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    },
+    {
+      "name": "useOnClickOutside",
+      "category": "hooks",
+      "status": "planned",
+      "path": null,
+      "hasStory": false,
+      "hasTest": false
+    }
+  ],
+  "metadata": {
+    "total": 390,
+    "categories": [
+      "ui",
+      "forms",
+      "data-display",
+      "navigation",
+      "overlay",
+      "charts",
+      "dashboard",
+      "social",
+      "scheduling",
+      "marketing",
+      "system",
+      "hooks"
+    ],
+    "lastUpdated": "2026-07-21T00:00:00Z"
+  }
+}
