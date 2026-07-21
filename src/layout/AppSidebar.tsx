@@ -41,6 +41,13 @@ const navItems: NavItem[] = [
     path: "/calendar",
   },
   {
+    icon: <GridIcon />,
+    name: "Scheduling",
+    subItems: [
+      { name: "Kanban Board", path: "/components/scheduling/kanban", pro: false, new: true },
+    ],
+  },
+  {
     icon: <UserCircleIcon />,
     name: "User Profile",
     path: "/profile",
