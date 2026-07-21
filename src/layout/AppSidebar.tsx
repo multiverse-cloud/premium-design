@@ -51,6 +51,7 @@ const navItems: NavItem[] = [
     icon: <ListIcon />,
     subItems: [
       { name: "Form Elements", path: "/form-elements", pro: false },
+      { name: "Advanced Select", path: "/components/forms/advanced-select", pro: false, new: true },
       { name: "Input", path: "/components/forms/input", pro: false, new: true },
       { name: "Textarea", path: "/components/forms/textarea", pro: false, new: true },
       { name: "Checkbox", path: "/components/forms/checkbox", pro: false, new: true },
