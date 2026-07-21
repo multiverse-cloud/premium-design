@@ -68,6 +68,7 @@ const navItems: NavItem[] = [
     name: "Data Display",
     icon: <GridIcon />,
     subItems: [
+      { name: "Advanced Table", path: "/components/data-display/advanced-table", pro: false, new: true },
       { name: "Card", path: "/components/data-display/card", pro: false, new: true },
       { name: "Table", path: "/components/data-display/table", pro: false, new: true },
       { name: "Tabs", path: "/components/data-display/tabs", pro: false, new: true },
