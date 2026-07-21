@@ -30,7 +30,10 @@ const navItems: NavItem[] = [
   {
     icon: <GridIcon />,
     name: "Dashboard",
-    subItems: [{ name: "Ecommerce", path: "/", pro: false }],
+    subItems: [
+      { name: "Ecommerce", path: "/", pro: false },
+      { name: "Stat Cards", path: "/stat-cards", pro: false, new: true },
+    ],
   },
   {
     icon: <CalenderIcon />,
@@ -46,7 +49,47 @@ const navItems: NavItem[] = [
   {
     name: "Forms",
     icon: <ListIcon />,
-    subItems: [{ name: "Form Elements", path: "/form-elements", pro: false }],
+    subItems: [
+      { name: "Form Elements", path: "/form-elements", pro: false },
+      { name: "Input", path: "/components/forms/input", pro: false, new: true },
+      { name: "Textarea", path: "/components/forms/textarea", pro: false, new: true },
+      { name: "Checkbox", path: "/components/forms/checkbox", pro: false, new: true },
+      { name: "Radio", path: "/components/forms/radio", pro: false, new: true },
+      { name: "Switch", path: "/components/forms/switch", pro: false, new: true },
+      { name: "Select", path: "/components/forms/select", pro: false, new: true },
+      { name: "Slider", path: "/components/forms/slider", pro: false, new: true },
+      { name: "Password Input", path: "/components/forms/password", pro: false, new: true },
+      { name: "Search Input", path: "/components/forms/search", pro: false, new: true },
+      { name: "Date Picker", path: "/components/forms/datepicker", pro: false, new: true },
+      { name: "Form Field", path: "/components/forms/formfield", pro: false, new: true },
+    ],
+  },
+  {
+    name: "Data Display",
+    icon: <GridIcon />,
+    subItems: [
+      { name: "Card", path: "/components/data-display/card", pro: false, new: true },
+      { name: "Table", path: "/components/data-display/table", pro: false, new: true },
+      { name: "Tabs", path: "/components/data-display/tabs", pro: false, new: true },
+      { name: "Breadcrumb", path: "/components/data-display/breadcrumb", pro: false, new: true },
+      { name: "Stat Card", path: "/components/data-display/statcard", pro: false, new: true },
+    ],
+  },
+  {
+    name: "Navigation",
+    icon: <GridIcon />,
+    subItems: [
+      { name: "Sidebar", path: "/components/navigation/sidebar", pro: false, new: true },
+      { name: "Navbar", path: "/components/navigation/navbar", pro: false, new: true },
+      { name: "Pagination", path: "/components/navigation/pagination", pro: false, new: true },
+    ],
+  },
+  {
+    name: "Overlay",
+    icon: <GridIcon />,
+    subItems: [
+      { name: "Modal", path: "/components/overlay/modal", pro: false, new: true },
+    ],
   },
   {
     name: "Tables",
